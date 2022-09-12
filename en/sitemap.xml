@@ -2,373 +2,373 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/series/hugo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-  </url><url>
-    <loc>http://www.example.com/posts/mermaid-support/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="https://npust-dnlab.github.io/testtt/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/mermaid-support/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://npust-dnlab.github.io/testtt/posts/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://npust-dnlab.github.io/testtt/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/series/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://npust-dnlab.github.io/testtt/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://npust-dnlab.github.io/testtt/series/"
+                />
+  </url><url>
+    <loc>https://npust-dnlab.github.io/testtt/series/theme/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/categories/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://npust-dnlab.github.io/testtt/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/css/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/css/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/css/"
+                href="https://npust-dnlab.github.io/testtt/tags/css/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/html/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/html/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/html/"
+                href="https://npust-dnlab.github.io/testtt/tags/html/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/html-and-css-only-tabs/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/markdown/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/markdown/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/markdown/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/markdown/"
+                href="https://npust-dnlab.github.io/testtt/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/categories/syntax/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://npust-dnlab.github.io/testtt/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/themes/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/categories/themes/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/themes-guide/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
+                href="https://npust-dnlab.github.io/testtt/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/privacy/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/privacy/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/privacy/"
+                href="https://npust-dnlab.github.io/testtt/tags/privacy/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
+                href="https://npust-dnlab.github.io/testtt/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
+                href="https://npust-dnlab.github.io/testtt/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/more-rich-content/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/more-rich-content/"
+                href="https://npust-dnlab.github.io/testtt/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/placeholder-text/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/placeholder-text/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/placeholder-text/"
+                href="https://npust-dnlab.github.io/testtt/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/text/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/text/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/text/"
+                href="https://npust-dnlab.github.io/testtt/tags/text/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/math-typesetting/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/math-typesetting/"
+                href="https://npust-dnlab.github.io/testtt/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/emoji/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/emoji/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/emoji/"
+                href="https://npust-dnlab.github.io/testtt/tags/emoji/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
+                href="https://npust-dnlab.github.io/testtt/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/development/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/development/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/development/"
+                href="https://npust-dnlab.github.io/testtt/tags/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/development/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/development/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/development/"
+                href="https://npust-dnlab.github.io/testtt/categories/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/hugo-coder-wiki/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/hugo-coder-wiki/"
+                href="https://npust-dnlab.github.io/testtt/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://npust-dnlab.github.io/testtt/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/themes/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/themes/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/themes/"
+                href="https://npust-dnlab.github.io/testtt/tags/themes/"
                 />
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://npust-dnlab.github.io/testtt/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://npust-dnlab.github.io/testtt/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://npust-dnlab.github.io/testtt/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://npust-dnlab.github.io/testtt/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://npust-dnlab.github.io/testtt/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://npust-dnlab.github.io/testtt/projects/"
                 />
   </url>
 </urlset>
